@@ -1,0 +1,22 @@
+@import url("footer.css");
+
+main{
+    font-family: Arial;
+}
+
+.header{
+         background-color: black;
+}
+ h2 {
+        color: #6B3F52 !important;
+    }
+.special {
+    color: red;
+}
+
+#first {
+    color: blue;
+}
+.second {
+        border: 1px solid red;
+    }
